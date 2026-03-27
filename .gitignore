@@ -1,0 +1,14 @@
+.DS_Store
+~$*
+*.gph
+
+# Stata datasets
+*.dta
+*.DTA
+
+# Optional: keep raw data off GitHub
+data/raw/
+
+# macOS
+.AppleDouble
+.LSOverride
